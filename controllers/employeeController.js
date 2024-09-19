@@ -95,7 +95,7 @@ exports.deleteEmployee = async (req, res) => {
               message: 'Employee not found'
             });
         }
-        await employee.remove();
+        await employee.deleteOne();
         res.status(200).json({
           message: 'Employee removed successfully'
         });
