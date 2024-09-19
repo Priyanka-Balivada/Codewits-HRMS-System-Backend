@@ -30,7 +30,7 @@
 To run unit tests:
 ```bash
 npm test
-
+```
 ## Postman Collections
 
 In addition to the unit tests, a Postman collection file has been provided for manual testing and exploration of the API endpoints. This collection includes predefined requests for all the major routes of the Employee and Leave APIs.
