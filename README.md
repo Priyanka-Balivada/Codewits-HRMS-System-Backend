@@ -56,6 +56,8 @@ In addition to the unit tests, a Postman collection file has been provided for m
 
 The Postman collection includes:
 
+- Login
+
 - **Employee API Requests:**
   - Create an employee
   - Get all employees
